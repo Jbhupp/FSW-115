@@ -1,0 +1,61 @@
+
+    {
+        "menu": [
+            {
+                "appetizers" : [{
+                    "id-dip" : "dip",
+                    "ingredients" : ["tortilla chips", "chile con queso"],
+                    "description" : "Freshly baked tortilla chips covered with queso",
+    
+                    "id-bites" : "spicey cheese balls",
+                    "ingredientsList" : ["jalapeno cheese", "homemade batter"],
+                    "spicey cheese bites" : "Homemade spicey deep fried cheese balls"
+                }]
+    
+            },
+            {
+                "cold sandwiches" :[{
+                    "id-Sandwich" : "Chicken Salad",
+                    "ingredientsList1" : ["chicken", "miracle whip", "celery", "croissant"],
+                    "Chicken Salad" : "Homemade chicken salad",
+    
+                    "id-turkey" : "turkey salad",
+                    "ingredientsList2" : ["turkey", "miracle whip", "celery", "salt", "pepper", "sourdough bread"],
+                    "Turkey Salad" : "HFreshly made turkey salad on homemade sourdough bread"
+                }]
+            },
+            {
+                "hot sandwiches" : [{
+                    "id-sandwiches" : "ham and cheese",
+                    "ingredientsList3" : ["grilled bread", "cheese", "ham"],
+                    "ham and cheese" : "Hot ham and cheese sandwich",
+    
+                    "id-grilled" : "Grilled Cheese",
+                    "ingredientsList4" : ["bread", "butter", "cheese"],
+                    "grilled cheese" : "Hot freshly made grilled cheese"
+                }]
+            },
+            {
+                "desserts" : [{
+                    "id-brownie" : "Brownies",
+                    "ingredientsList5" : ["flour", "coca power", "sugar", "egg", "water"],
+                    "brownie" : "Fresh homemade brownies",
+    
+                    "id-pie" : "Apple Pie",
+                    "ingredientsList6" : ["flour", "apples", "eggs", "cinnamon", "sugar"],
+                    "Apple Pie" : "Freshly baked apple pie"
+                }]
+            },
+            {
+                "drinks" : [{
+                    "id-lemonade" : "lemonade",
+                    "ingredientsList7" : ["water", "sugar", "lemons", "strawberries"],
+                    "lemonade" : "a drink that makes everyone smile",
+    
+                    "id-orange juice" : "Orange Juice",
+                    "ingredientsList8" : ["oranges"],
+                    "Orange Juice" : "Our famous homemade orange juice"
+                }]
+            }
+        ]
+    }
