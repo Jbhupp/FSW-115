@@ -1,0 +1,50 @@
+html {
+    margin: 0;
+    background-color: grey;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 25px;
+}
+
+.nav>a {
+    text-decoration: none;
+    font-weight: 800;
+    font-size: larger;
+    color: hotpink;
+}
+
+.nav>a:hover {
+    text-decoration: underline;
+    color: white;
+    font-size: 2em;
+}
+
+.data_button {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    border-radius: 5px;
+    background-color:navy;
+    font-size: 1em;
+    padding: 5px;
+}
+
+.data_button:hover {
+    box-shadow: 5px 5px 2px 1px cyan;
+    border: 0.05em solid black;
+}
+
+li {
+    margin-left: 2em;
+}
+
+.dataElements {
+    color: #000000;
+    font-size: 1.5em;
+}
+
