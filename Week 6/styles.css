@@ -1,0 +1,35 @@
+body{
+    
+    background-image: url('star.jpg');
+    
+    margin-top: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+div{
+    text-align: center;
+    margin: .05rem;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+#names{
+    margin: .5rem;
+    padding: .5rem;
+    border: .5rem;
+}
+#world{
+    margin: .5rem;
+    border: .5rem;
+    padding: .5rem;
+}
+#world{
+    margin: .5rem;
+    padding: .5rem;
+    border: .5rem;
+}
+
