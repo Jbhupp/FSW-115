@@ -1,7 +1,7 @@
 // Contains a GET request
 // Uses a promise based client (node.js, fetch, Axios, or custom promises)
 function getData() {
-    axios.get('http://api.bryanuniversity.edu/jennihupp/list/')
+    axios.get('http:\\api.bryanuniversity.edu/jennihupp/list')
         .then(response => createToDo(response.data))
         .catch(error => console.log(error))
 }
